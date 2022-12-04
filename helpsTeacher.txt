@@ -1,0 +1,21 @@
+Estudiar mas a fondo Git
+
+https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio
+
+
+---------------------------------------------------------------
+
+Ejecutar mas comandos en git para practicar y editar el comando git log
+
+https://devhints.io/git-log
+
+
+--------------------------------------------------------------
+Mejores practicas para hacer commit
+
+https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60
+
+
+
+
+
